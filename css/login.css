@@ -109,7 +109,7 @@ dd {
 
 
 body#LoginBody{
-	  background-image: url('../images/login background.jpg'); 
+	  background-image: url('../images/login_background.jpg'); 
 	  background-attachment: fixed;
 	  background-repeat: no-repeat;
 	  background-position: center center;
@@ -211,7 +211,7 @@ div.header a:hover{
 	border: 2px solid #FFFFFF ;
 }
 div.homepagebackground{
-	background-image: url('../images/login background.jpg'); 
+	background-image: url('../images/login_background.jpg'); 
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: center center;

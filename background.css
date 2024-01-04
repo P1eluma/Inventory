@@ -1,5 +1,5 @@
 div.homepagebackground{
-	background-image: url('/images/login background.jpg'); 
+	background-image: url('./images/login_background.jpg'); 
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: center center;
