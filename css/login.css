@@ -208,14 +208,14 @@ div.header a{
 }
 
 div.header a:hover{
-	border: 2px solid; #FFFFFF;
+	border: 2px solid #FFFFFF ;
 }
-div.banner{
-	  <img src: "images/home.JPG" alt="Homepage Image">;
+div.homepagebackground{
+	background-image: url('../images/login background.jpg'); 
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center center;
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
     padding-top: 100px;
     padding-bottom: 450px;
     height:100vh;
@@ -337,7 +337,7 @@ div.Homepagefooter{
 
 div.Homepagefooter a{
 	margin-left: 35px;
-	color: #00000FF;
+	color: 00000FF;
 }
 
 div.Homepagefooter a:hover{

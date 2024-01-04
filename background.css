@@ -1,0 +1,141 @@
+div.homepagebackground{
+	background-image: url('/images/login background.jpg'); 
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center center;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 450px;
+    height:100vh;
+}
+div.homepagebackground img{
+image-resolution: 80x 80x;
+}
+
+div.homepageContainer{
+	width: 100%;
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+div.bannerHeader h1 {
+	font-size: 100px;
+	color: #000000;
+	line-height: 100%;
+}
+
+div.bannerHeader h3{
+	font-size: 40px;
+	color: #000000;
+	margin-top: -10px;
+	line-height: 100%;
+}
+
+
+h3.bannerTagline{
+	line-height: 100%;
+	font-size: 20px;
+	margin-top: 10px;
+	color: #FFFFFF;
+}
+
+div.HomepageFeatures{
+	display: flex;
+	flex-direction: row;
+
+}
+
+div.HomepageFeature{
+	padding: 40px 20px;
+	text-align: center;
+	width: 50% ;
+}
+div.HomepageFeature:hover{
+	border-top: 3px solid #000000;
+	border-bottom: 3px solid #000000;
+}
+div.HomepageFeature span.featureicon{
+	height: 20px;
+	width: 25px;
+	font-size: 25px;
+	background: #FFFFFF;
+	color: #0000FF;
+}
+
+div.HomepageUpdate{
+	background: #e3e3e3;
+	padding: 100px 0px;
+}
+div.HomepageContainer{
+	display: flex;
+	flex-direction: row;
+    text-align: left;
+}
+
+div.formcontainer input{
+	width: 100%;
+	padding: 15px 10px;
+}
+
+div.formcontainer{
+	width: 80%;
+	position: relative;
+}
+
+div.formcontainer button{
+	position: absolute;
+	right: 0;
+	top: 0;
+	height: 100%;
+	font-size: 20px;
+	padding: 0px 15px;
+	color: #000000;
+	background: #e3e3e3;
+}
+
+div.formcontainer button:hover{
+	border-top: 2px solid;
+}
+div.Homepagefinale{
+	text-align: center;
+	padding: 50px 0 20px 0px;
+}
+
+p.Socials{
+	font-size: 25px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+div.SocialsIconContainer a{
+	font-size: 25px;
+	color: #000000;
+	display: inline-block;
+	background: e3e3e3;
+	height: 50px;
+	width: 50px;
+}
+div.SocialsIconContainer a:hover{
+	border-top: 3px solid #000000;
+}
+
+div.Homepagefooter{
+	background: #e3e3e3;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: -30px;
+}
+
+div.Homepagefooter a{
+	margin-left: 35px;
+	color: 00000FF;
+}
+
+div.Homepagefooter a:hover{
+	border:2px solid #e3e3e3;
+}
+div.Copyright h3{
+	margin-top: 10px;
+	font-size: 19px;
+}
+
